@@ -78,7 +78,7 @@ p {
     margin-left: 25px;
 }
 
-/**/ 
+/*This class sellector gives all elements with the .content class a width of 75% and a margin of 20px*/ 
 .content {
     width: 75%;
     display: inline-block;
